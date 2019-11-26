@@ -56,13 +56,13 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-5_1;
   }
 
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
-
+    text-align: justify;
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {

@@ -173,10 +173,11 @@
    ========================================================================== */
 
 .greedy-nav {
+  
   position: relative;
   min-width: 250px;
   background: $background-color;
-
+  
   a {
     display: block;
     margin: 0 1rem;
@@ -225,7 +226,7 @@
 
     a {
       position: relative;
-
+      color:$text-color;
       &:before {
         content: "";
         position: absolute;
@@ -324,6 +325,7 @@
     display: block;
     padding: 0.125em 0;
     color: inherit;
+
 
     &:hover {
       text-decoration: underline;
