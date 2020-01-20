@@ -44,7 +44,9 @@
 }
 
 .masthead__menu-item {
-  display: block;
+  // display: inline-block;
+  display: block; 
+  text-align:center;
   background-color: $navigation-header-color;
   list-style-type: none;
   white-space: nowrap;
