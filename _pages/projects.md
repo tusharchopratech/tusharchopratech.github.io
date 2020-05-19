@@ -9,6 +9,10 @@ author_profile: true
 <p style="text-align:center;font-size:22px;"><u>Software Development</u></p>
 
 
+
+
+
+
 Shorthand Practice 
 ------
 * The main focus of the project is to provide free dictations to people who are learning Shorthand Language. Users are able to listen recordings and can check their shorthand from the app. Godaddy’s hosting is used as app server with php services to handle request from app. The app is published in Google Playstore and has over 18K downloads.
@@ -19,6 +23,9 @@ Shorthand Practice
 • Currently working on social platform for local sports players.
 • Tech: Python/Django, React Native/Expo, Android, Digital Ocean, PostgreSQL, AWS
 
+
+<img src="/images/profile_pic.png">
+TThis is image text. This is image text. This is image text. This is image text. This is image text. This is image text. his is image text. 
 
 Field Data Collection App 
 ------
