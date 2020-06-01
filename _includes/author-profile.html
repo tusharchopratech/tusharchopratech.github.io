@@ -16,10 +16,19 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<h5 class="author__bio" style="font-family: 'Nanum Myeongjo';">{{ author.bio }}</h5>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+
+  <ul class="social-icons">
+    <li><a href="https://github.com/tusharchopratech"><img width="25px" height="25px" src='/images/github.png' /></a></li>
+    <li><a href="https://gitlab.com/tusharchopratech"><img width="25px" height="25px" src='/images/gitlab.png' /></a></li>
+    <li><a href="https://uwaterloo.ca/scholar/t6chopra"><img width="25px" height="25px" src='/images/school.png' /></a></li>
+    <li><a href="https://www.linkedin.com/in/tusharchopratech/"><img width="25px" height="25px" src='/images/linkedin.png' /></a></li>
+    <!-- <li><a href="mailto:tusharchopratech@gmail.com"><img width="25px" height="25px" src='/images/email.png' /></a></li> -->
+  </ul>       
+
+  <!-- <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -119,5 +128,5 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul>
-  </div>
+  </div> -->
 </div>

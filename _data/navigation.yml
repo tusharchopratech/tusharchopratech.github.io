@@ -3,20 +3,24 @@ main:
   - title: "About"
     url: /about
 
-  - title: "Experience"
-    url: /experience
-
   - title: "Projects"
     url: /projects
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
   
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Awards & Achievements"
-    url: /awards
+  # - title: "Academia"
+  #   url: /academia
+
+  - title: "Achievements"
+    url: /achievements
+
+  - title: "Experience"
+    url: /experience
+
   
   # - title: "CV"
   #   url: /cv/

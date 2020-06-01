@@ -7,11 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grapestree"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Tushar Chopra"
 description              : &description "personal description"
-url                      : https://tusharchopratech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://tusharchopratech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : http://b6d4fef8.ngrok.io
 # url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tusharchopratech/tusharchopratech.github.io"
@@ -83,8 +84,11 @@ analytics:
 author:
   name             : "Hi, I'm Tushar"
   avatar           : "profile_pic.png"
-  bio              : "Bio."
-  location         : "Canada"
+  # bio              : "\"Big jumps are made when</br>you step-back some feets.""
+  # bio              : "\"To jump big you need</br>to step few feets back.\""
+  bio              : "\"first You fail, then They fail.\""
+  bio              : "If you are not embarrassed by the first version of your product, you’ve launched too late."
+  location         : "Canada" 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

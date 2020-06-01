@@ -1,11 +1,16 @@
 ---
-permalink: /awards
-title: "Awards & Achievements"
-excerpt: "Awards & Achievements"
+permalink: /achievements
+title: "Achievements"
+excerpt: "Achievements"
 author_profile: true
 redirect_from: 
 ---
 <!-- <p style="text-align:center;font-size:30px;">Awards & Achievements</p> -->
+
+Research
+------
+* Won 3MT(3 minute thesis) presentation at University of Waterloo, secured 3rd position, 2020.
+* Received Faculty of Engineering Graduate Scholarship at Univeristy of Waterloo, 2020.
 
 Robotics
 ------
