@@ -11,7 +11,7 @@ title                    : ""
 title_separator          : ""
 name                     : &name "Tushar Chopra"
 description              : &description "personal description"
-url                      : https://tusharchopratech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://tusharchopratech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://b6d4fef8.ngrok.io
 # url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
