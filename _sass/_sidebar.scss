@@ -138,6 +138,8 @@
 }
 
 .social-icons {
+  margin: 0px;
+  margin-top: 8px;
   text-align: center;
   padding-inline-start: 0px;
 }
@@ -147,6 +149,8 @@
   list-style-type: none;
   -webkit-user-select: none;
   -moz-user-select: none;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .social-icons li a {
   width: auto;
