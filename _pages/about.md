@@ -21,5 +21,5 @@ About
 
 
 * University of Waterloo Graduate.
-* Background in Computer Science and System Design.
+* Background in Computer Science and Product Management.
 * Currently working in the field of Machine Learning, EMG, and HMI at Ebionics Lab, Canada. 
