@@ -7,11 +7,6 @@ redirect_from:
 ---
 <!-- <p style="text-align:center;font-size:30px;">Awards & Achievements</p> -->
 
-Research
-------
-* Won 3MT(3 minute thesis) presentation at University of Waterloo, secured 3rd position, 2020.
-* Received Faculty of Engineering Graduate Scholarship at Univeristy of Waterloo, 2020.
-
 Robotics
 ------
 * Recipient of 1 st prize in RoboSoccer contest in IIT Delhi at Tryst Techfest 2015 
@@ -36,9 +31,21 @@ Programming
 * Received 1st position in Tech Paper Presentation in GATES 2014 at GTBIT. 
 * Stood 2nd in Innovation App contest in BVCOE, 2013.
 
+Awards & Scholarships
+------
+* Engineering Graduate Scholarship 
+* Graduate Research Studentship 
+* International Master's Student Award 
+* Research Assistantships 
+* Computer Master of Class Award
+
 Other
 ------
 * Head of Robotics division in annual Tech-Fest GATES at GTBIT.
 * Successfully conducted multiple android app development and robotics workshops at GTBIT.
 * Received Letter of Appreciation from the college after successful organization of GATES tech fest in 2014.
 * Member of Technical Core Team at GATES 2014 (Annual Techno-Cultural Fest) held in college.
+
+Research
+------
+* Won 3MT(3 minute thesis) presentation at University of Waterloo, secured 3rd position, 2020.

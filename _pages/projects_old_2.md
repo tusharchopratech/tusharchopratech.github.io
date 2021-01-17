@@ -1,105 +1,10 @@
 ---
 # layout: archive
 title: "Projects"
-# excerpt: "Projects"
-# permalink: /projects
-# author_profile: true
+excerpt: "Projects"
+permalink: /projects
+author_profile: true
 ---
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<style>
-.all:hover, .machine_learning:hover, .software:hover  {
-  cursor: pointer;
-}
-.underline{
-    text-decoration:underline;
-}
-.list_item{
-  display:flex; align-items: center; margin-bottom: 25px;
-}
-</style>
-
-<script>
-
-$(document).on("click", ".all", function(){
-    $("#div_software").hide();
-    $("#div_machine_learning").hide();
-    $("#div_all").fadeIn();
-    $(".all" ).css( "text-decoration", "underline" );
-    $(".machine_learning" ).css( "text-decoration", "none" );
-    $(".software" ).css( "text-decoration", "none" );
-});
-
-$(document).on("click", ".machine_learning", function(){
-    $("#div_software").hide();
-    $("#div_all").hide();
-    $("#div_machine_learning").fadeIn();
-    $(".all" ).css( "text-decoration", "none" );
-    $(".machine_learning" ).css( "text-decoration", "underline" );
-    $(".software" ).css( "text-decoration", "none" );
-});
-
-$(document).on("click", ".software", function(){
-    $("#div_machine_learning").hide();
-    $("#div_all").hide();
-    $("#div_software").fadeIn();
-    $(".all" ).css( "text-decoration", "none" );
-    $(".machine_learning" ).css( "text-decoration", "none" );
-    $(".software" ).css( "text-decoration", "underline" );
-});
-
-$( document ).ready(function() {
-    $(".all" ).css( "text-decoration", "underline" );
-    $("#div_machine_learning").hide();
-    $("#div_software").hide();
-});
-
-</script>
-
-<div style="display: flex;  justify-content: flex-end;">
-  <p class="all">All</p>  
-    &nbsp;
-  <p>|</p>
-    &nbsp;
-  <p class="machine_learning">Machine Learning</p>
-    &nbsp;
-  <p>|</p>
-    &nbsp;
-<p class="software">Software</p> 
-</div>
-
-
-<div id="div_all" markdown="1">
-
-<!-- 
-<div style="display:flex;">
-
-  <div style="display:flex; align-items: center; flex-direction:column; flex=1; width:100%;">
-      <div style="padding-right: 20px;">
-        <img style="float: left; width: auto;  height:200px; border-radius: 20%;" src="/images/profile_pic.png">
-      </div>
-      <div style="flex: 2;">
-        <h2 style="margin-top: 0px;">Impulse</h2>
-        <p>It improves user's reaction time of mouse click for gamers. The system consist of both hardware and software communicated via serial port.</p>
-        <p>Stack - Electron/React/Node Js, C/C++, Python, TCP Sockets, Microsoft Win32</p>
-      </div>
-  </div>
-
-  <div style="display:flex; align-items: center; flex-direction:column; flex=1; width:100%;">
-      <div style="padding-right: 20px;">
-        <img style="float: left; width: auto;  height:200px; border-radius: 20%;" src="/images/profile_pic.png">
-      </div>
-      <div style="flex: 2;">
-        <h2 style="margin-top: 0px;"> Machine Learning</h2>
-        <li>Tushar Chopra</li>
-        <li>Tushar Chopra</li>
-      </div>
-  </div>
-
-
-</div> -->
 
 
 
@@ -167,26 +72,6 @@ Stack - Arduino, ICs, Electronics, Java, php, Android, mysql, multithreading, RE
 * *<u>Gre Verbal Sentence Completion</u>* -  self explainatory
 * *<u>Reading Comprehensions</u>* - self explaintory
 * *<u>Hotel Management</u>* etc. 
-
-
-</div>
-
-<div id="div_machine_learning" markdown="1">
-<!-- Impulse
-------
-<a href="https://play.google.com/store/apps/details?id=com.shorthand&hl=en" rel="some text"> <img src="/images/google-play-6.png" width="40" style="box-shadow: none;"></a> | Stack - Python, DJango, Android, Javascript, React, Postgresql.
-* Android app for the students learning Shorthand language, provides online dictations for practice with solutions. Over 400K users at Google Play Store.
-* Tools: Crashlytics, Google Analytics, Ngnix, Cloudflare, FCM (Former GCM) notifications, In-app purchase etc. -->
-</div>
-
-<div id="div_software" markdown="1">
-<!-- Shorthand Practice 
-------
-<a href="https://play.google.com/store/apps/details?id=com.shorthand&hl=en" rel="some text"> <img src="/images/google-play-6.png" width="40" style="box-shadow: none;"></a> | Stack - Python, DJango, Android, Javascript, React, Postgresql.
-* Android app for the students learning Shorthand language, provides online dictations for practice with solutions. Over 400K users at Google Play Store.
-* Tools: Crashlytics, Google Analytics, Ngnix, Cloudflare, FCM (Former GCM) notifications, In-app purchase etc. -->
-</div>
-
 
 
 

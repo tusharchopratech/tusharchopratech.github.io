@@ -9,8 +9,8 @@ redirect_from:
 
 Machine Learning | Human Machine Interfacing 
 ------
-* <u>Motivation</u>: Professional gaming is being grown exponentially in recent years and the growth of this industry boomed in this COVID-19 era. Gamers buy expansive hardware for competitive gaming just to keep communication delay from hardware to the operating system as low as possible. They don't attend the contest or make a purchase when this response delay is more than 7 to 10 ms.
-* <u>Research</u>: The contribution is focused on the development of low latency device for professional gamers using Human-Machine Interfacing (HMI) and Artificial Intelligence (AI). Electromyography (EMG) is one of the techniques that is used oftentimes in HMI. We are using surface electromyography (sEMG) which used to capture the muscle activity at the skin surface. The whole setup consists of 2 to 4 electrodes on the back of your palm, along with ADC connected to the system. After one training session followed by biomedical signal processing and machine learning, the user is not only able to reduce the delay but in fact started getting lead of 40ms on average up to 100ms. Please see the video below to see the real-time play of the system. Publication is in process.
+* Professional gaming is being grown exponentially in recent years and the growth of this industry boomed in COVID-19 era. Gamers buy expansive hardware for competitive gaming just to keep communication delay from hardware to the operating system as low as possible. 
+* This research is focused on the development of low latency Human-Machine Interface (HMI) using Machine Learning (ML) and Electromyography (EMG) to capture muscle activity from the hand and and predict the mouse clicks. The whole setup consists of three electrodes on the back of your palm, along with ADC connected to the OS. After one training session, the click reaction time improved by an average of 45 ms up to 150 ms.
 
 <table style="height:250px; border: none;">
 <tr>
@@ -21,7 +21,7 @@ Machine Learning | Human Machine Interfacing
 
 Reinforcement Learning | Deep Learning
 ------
-* Worked on a novel algorithm in multiagent Re-enforcement learning (RL) domain, which involves learning tasks from trajectories and experts. This was done at Univeristy of Waterloo with Prof. Mark Crowley and their lab researchers.
+* Worked on a novel algorithm in multiagent Re-enforcement learning (RL) domain, which involves learning tasks from trajectories and experts. This was done at Univeristy of Waterloo with Prof. Mark Crowley and their research team.
 * Developed Deep Learning (DL) models for Deep Q-learning from Demonstrations (DQfD), Continuous control with deep reinforcement learning (DDPG), and Reinforcement Learning from Imperfect Demonstrations (NAC), for Pommerman, predator-prey, and soccer as testbeds.
 
 Publications
