@@ -10,7 +10,7 @@ redirect_from:
 
 Industry
 ------
-* <div style="float: left">Graduate Researcher | Ebionics</div>  <div style="float: right">Waterloo, CA | Jan’19-Present</div>
+* <div style="float: left">ML-HMI Researcher | Ebionics</div>  <div style="float: right">Waterloo, CA | Jan’19-Present</div>
 * <div style="float: left">Research Engineer | Brink Bionics</div>  <div style="float: right">Waterloo, CA | Mar'19-Jan'20</div>
 * <div style="float: left">Founder | GrapesTree</div>  <div style="float: right">Delhi, IN | Aug’17-Oct’18</div>
 * <div style="float: left">Senior Software Engineer | Curefy</div>  <div style="float: right">NCR, IN | Jan’17-May’17</div>
